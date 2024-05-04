@@ -1,10 +1,9 @@
-👋 Hi, I'm Clara Lima!
+👋 Hi there, I'm Clara Lima! I'm a 📊 DataScientist Student with a lot of hands-on experience in the field.  🎓 Currently pursuing a degree in Data Science from the Universidade Federal do Ceará and also a degree in Computer Science from Unifanor Wyden.
+I'm passionate about data, systems and my cats . I love anime, the color pink and reading 📖.
 
-📊 DataScientist Student with a lot of hands-on experience in the field
+![image](https://github.com/claralimasilva/claralimasilva/assets/111255062/5521d9aa-dd88-4d80-9662-ea38343057de)
 
 🔍 About Me
-
-🎓 Currently pursuing a degree in Data Science from the Universidade Federal do Ceará and also a degree in Computer Science from Unifanor Wyden.
 
 📊 Experienced in developing and implementing machine learning models for intelligent systems, recommendation engines, classification, regression, and NLP.
 
@@ -73,4 +72,8 @@ Operational Systems:
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white): https://www.linkedin.com/in/claralimasilva/
 
 ✨ Feedback is always appreciated! If you come across any interesting projects or want to collaborate, feel free to contribute or reach out to me.
+
+That is all! Now you know me a little more!
+
+![image](https://github.com/claralimasilva/claralimasilva/assets/111255062/40f005ea-3c14-4d4f-a998-e29fb31cde84)
 
